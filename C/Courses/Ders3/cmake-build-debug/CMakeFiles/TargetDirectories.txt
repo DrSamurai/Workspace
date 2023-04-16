@@ -1,0 +1,3 @@
+/Users/melihyaz/Desktop/C/Courses/Ders3/cmake-build-debug/CMakeFiles/Ders3.dir
+/Users/melihyaz/Desktop/C/Courses/Ders3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melihyaz/Desktop/C/Courses/Ders3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

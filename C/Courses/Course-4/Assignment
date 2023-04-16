@@ -1,0 +1,25 @@
+"Write a function that takes in a 2D array and the dimensions of the array
+as arguments, and returns a pointer to the minimum value in the array. The function
+should have the following signature:
+
+int *find_min(int arr[][], int rows, int cols);
+
+Your function should return a pointer to the minimum value in the array. If
+the array is empty (i.e., either rows or cols is 0), the function should return a null pointer.
+// int* ptr; = NULL
+
+For example, given the following array:
+
+int arr[][] = {
+    {1, 2, 3},
+    {4, 5, 6},
+    {7, 8, 9}
+};
+
+The call to find_min(arr, 3, 3) should return a pointer to the value 1.
+
+You may assume that the array passed to the function is a valid 2D array
+with at least one element. You should not modify the original array in any way."
+
+
+Define minimum beforehand

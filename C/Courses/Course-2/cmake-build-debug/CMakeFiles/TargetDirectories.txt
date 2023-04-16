@@ -1,0 +1,3 @@
+/Users/melihyaz/Desktop/C/Courses/Course-2/cmake-build-debug/CMakeFiles/Course_2.dir
+/Users/melihyaz/Desktop/C/Courses/Course-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melihyaz/Desktop/C/Courses/Course-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

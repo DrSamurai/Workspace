@@ -1,0 +1,3 @@
+/Users/melihyaz/Desktop/Data Structures/Courses/Stack_v1/cmake-build-debug/CMakeFiles/Stack_v1.dir
+/Users/melihyaz/Desktop/Data Structures/Courses/Stack_v1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melihyaz/Desktop/Data Structures/Courses/Stack_v1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+Create a Java program that implements an abstract base class called "Shape3D" which serves as
+an abstract base class for different types of 3D shapes, such as spheres, cuboids and pyramids.
+The Shape3D class should have an abstract method called "calculateVolume()" that calculates the volume of the shape and returns it as a double. The class should also have a method called "calculateSurfaceArea()" that calculates the surface area of the shape and returns it as a double.
+
+The class should also have a method called "displayShapeType()" that displays the type of the shape (e.g. "Sphere", "Cuboid", "Pyramid").
+
+Create subclasses of Shape3D called "Sphere", "Cuboid", "Pyramid" that implement the abstract methods from the Shape3D class and have additional attributes specific to their shape (e.g. radius for Sphere, length, width and height for Cuboid, etc.).
+
+Also, Create a class called "ShapeTester" which contains a main method that creates an object of each of the 3D shapes and demonstrates the use of the implemented methods.
+
+While defining the "Shape3D" class, you could include the following attributes:
+- A protected double variable called "volume" which will be used to store the calculated volume of the shape.
+- A protected double variable called "surfaceArea" which will be used to store the calculated surface area of the shape.
+
+When defining the subclasses of "Shape3D", you could include additional attributes specific to each shape:
+
+For the "Sphere" class:
+- A private double variable called "radius" which will be used to store the radius of the sphere.
+
+For the "Cuboid" class:
+- A private double variable called "length" which will be used to store the length of the cuboid.
+- A private double variable called "width" which will be used to store the width of the cuboid.
+- A private double variable called "height" which will be used to store the height of the cuboid.
+
+For the "Pyramid" class:
+
+- A private double variable called "length" which will be used to store the length of the base of the pyramid.
+- A private double variable called "width" which will be used to store the width of the base of the pyramid.
+- A private double variable called "height" which will be used to store the height of the pyramid.
+In the ShapeTester class you can use the above attributes to create objects of the 3D shapes and demonstrate the use of the implemented methods.

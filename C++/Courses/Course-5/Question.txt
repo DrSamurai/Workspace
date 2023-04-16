@@ -1,0 +1,16 @@
+Create a C++ class "Vehicle" with private member variables "make", 
+"model", and "year", and public member functions "setMake", "setModel", 
+and "setYear" to set the values of these variables. 
+
+Then, create a class "Car" that inherits from "Vehicle" and has private member variables 
+"numberOfDoors" and "tankCapacity", and public member functions 
+"setNumberOfDoors" and "setTankCapacity" to set the values of these 
+variables. 
+
+Create another class "Truck" that also inherits from "Vehicle" 
+and has private member variable "payloadCapacity" and public member function 
+"setPayloadCapacity" to set the value of this variable. 
+
+Create a class "SUV" that inherits from both "Car" and "Truck" and has a 
+private member variable "fourWheelDrive" and public member function "setFourWheelDrive" to set the 
+value of this variable. 

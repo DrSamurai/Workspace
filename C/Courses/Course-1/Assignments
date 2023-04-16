@@ -1,0 +1,28 @@
+1. Let user to enter 3 integers. Try to find max integer between them.
+    ex:
+        Enter a number: 5
+        Enter a number: 56
+        Enter a number: 32
+
+        MAX => 56
+
+
+
+2. Let user to enter 3 integers. Print that numbers in ascending order.
+    ex:
+        Enter a number: 5
+        Enter a number: 56
+        Enter a number: 32
+
+        Numbers: 5 < 32 < 56
+
+3. Let user to enter an integer input and then find if given input prime or not! (brute force approach)
+    ex:
+
+        ------- TEST CASE 1 -------
+        Enter a number: 13
+        Number is Prime!
+
+        ------- TEST CASE 2 -------
+        Enter a number: 10
+        Number is not prime!

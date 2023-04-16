@@ -1,0 +1,6 @@
+# ninja log v5
+0	757	1675967012393389536	CMakeFiles/Stack_v1.dir/main.cpp.o	92182ab4856fbf9f
+2	745	1675968656396783006	CMakeFiles/Stack_v1.dir/main.cpp.o	92182ab4856fbf9f
+6	709	1675968706574147084	CMakeFiles/Stack_v1.dir/MyStack.cpp.o	475f653e3c13631
+1	641	1675968724804815764	CMakeFiles/Stack_v1.dir/MyNode.cpp.o	4135cdb38575e63a
+641	726	1675968724892246155	Stack_v1	1510ae5093bbc548

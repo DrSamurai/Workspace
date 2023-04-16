@@ -1,0 +1,29 @@
+Create a class called "Vehicle" that serves as the base class for all types of vehicles. 
+The class should have the following attributes:
+
+A protected int variable called "numWheels" that represents the number of wheels on 
+the vehicle.
+A protected String variable called "vehicleType" that represents the type of vehicle 
+(e.g. "car", "motorcycle", "bicycle").
+A protected double variable called "maxSpeed" that represents the maximum speed of 
+the vehicle.
+The class should also have the following methods:
+
+A public abstract method called "drive()" that takes no arguments and returns 
+no value. This method should be overridden by subclasses to 
+provide a specific implementation for driving the vehicle.
+
+A public void method called "displayVehicleType()" that takes no arguments and 
+returns no value. This method should simply display the value of 
+the "vehicleType" attribute.
+
+A public void method called "displayNumWheels()" that takes no arguments and
+ returns no value. This method should simply display the value of 
+the "numWheels" attribute.
+
+Create three subclasses of Vehicle: "Car", "Motorcycle", and "Bicycle". 
+Each of these classes should provide an implementation of the "drive()" 
+method and set the appropriate values for the "numWheels" and "vehicleType" 
+attributes. In the main class, create objects of each of the three 
+subclasses and call the "drive()" method for each object, as well as the 
+"displayVehicleType()" and "displayNumWheels()" methods.
